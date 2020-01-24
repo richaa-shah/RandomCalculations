@@ -1,2 +1,0 @@
-# RandomCalculations
-Created with CodeSandbox
